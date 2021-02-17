@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/InukaAsith/Daisy",
+  "repository": "https://github.com/dasunpamod/BlackHat",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -25,12 +25,12 @@
     },
     "DAISY_IMG": {
       "description": "Daisy's Logo.. Telegra.ph only",
-      "value": "https://telegra.ph/file/4be7c7a8a1a9f50b73d21.jpg"
+      "value": "https://telegra.ph/file/2ee131ce0a1ea63fb1815.png"
     },
     
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1141839926"
+      "value": "1185054996"
     },
     
     "TL_APP_ID": {
@@ -49,7 +49,7 @@
     
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "InukaASiTH"
+      "value": "i_am_mr_dark_side"
     },
     
     
@@ -60,19 +60,19 @@
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "-1007777777777"
+      "value": "-1001497700284"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
-      "value": "1141839926"
+      "value": "1185054996"
     },
     "SUPPORT_USERS": {
       "description": "A space separated list of user_ids which should be considered support users (can gban/ungban, nothing else)",
-      "value": "1141839926"
+      "value": "1185054996"
     },
     "WHITELIST_USERS": {
       "description": "A space separated list of user_ids which should be considered whitelisted - they can't be banned.",
-      "value": "1141839926"
+      "value": "1185054996"
     },
     "DONATION_LINK": {
       "description": "Optional: link where you would like to receive donations.",
