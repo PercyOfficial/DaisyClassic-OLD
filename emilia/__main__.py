@@ -149,6 +149,7 @@ def start(update, context):
             buttons = InlineKeyboardMarkup(
                 [
                 [InlineKeyboardButton(text="💭 Language", callback_data="main_setlang"), InlineKeyboardButton(text="⚙️ Connect Group", callback_data="main_connect")],
+                [InlineKeyboardButton(text="👥 Support Group", url="https://t.me/blackhatgroupmanegerbot"), InlineKeyboardButton(text="🔔 Update Channel", url="https://t.me/blhgmb")],
                 [InlineKeyboardButton(text="❓ Help", url="https://t.me/{}?start=help".format(context.bot.username)), InlineKeyboardButton(text="💖 About Developer", url="https://t.me/i_am_mr_dark_side")],
                 [InlineKeyboardButton(text="🎉 Add me to your group", url="https://t.me/{}?startgroup=new".format(context.bot.username))]])
             update.effective_message.reply_photo(DAISY_IMG,
