@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "stack":"heroku18"
+  "stack":"heroku18",
   "repository": "hhttps://github.com/InukaAsith/Daisy",
   "env": {
     "ENV": {
