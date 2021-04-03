@@ -1,85 +1,28 @@
-# The Daisy Robot
-
+# CLASSIC Daisy Robot
+## UNMAINTAINED.. OLD VERSION.. NO SUPPORT
 # The new bot is here [@DaisyXbot](https://t.me/daisyxbot)
 
-### A Modular Group management Bot on Sinhala
-
-<p align = center>
-<img src="https://telegra.ph/file/d0c0156487ee42d9685e9.jpg" width =400 Height=400 ></img>
-</p>
-
-## Available on Telegram as [@MissLexaRobot](t.me/misslexarobot)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
-
-
-
+### A Modular Group management Bot based on emilia
 
 ## THE EASY WAY to Deploy 
 
-### Follow the methord carefully
 ```
 1) Create an account at https://heroku.com
-
-```
-```
 2) Get APP_ID and API_HASH from my.telegram.org
-```
-
-```
 3) Create a new bot from @botfather and copy its api token
-
-```
-![api](https://telegra.ph/file/9770210e1205bce0e06bb.png)
-
-```
 4) Click Deploy
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy.git)
 ```
 5) Give an app name
-
-```
-![Appname](https://telegra.ph/file/216e81c30118aeabd6574.png)
-```
 36 Paste the Api token copied at token space
-
-```
-![Token](https://telegra.ph/file/83574a44d10a89ea8e4d9.png)
-```
 7) Enter url of the app ass https://#Appneme.herokuapp.com
-
 8) Enter TL_APP_ID (Get from my.telegram.org 's API Development tools)
-
 9) Enter TL_API_HASH (Get from my.telegram.org 's API Development tools)
-
-```
-![url](https://telegra.ph/file/5b159343abc4d3a369ac0.png)
-```
 10)Then Deploy
-
 11) After Deploy over click manage app
-```
-```
 12) Goto Resources and Turn Worker Emilia to on (by clicking edit)
-
-```
-![worker](https://telegra.ph/file/eed4d6b0a2177bf7cdf76.png)
-```
 13) Goto Logs and check for the errors
-```
-![logs](https://telegra.ph/file/06409b6ce522d005a3ad4.png)
-```
-
-
-*A message for Experts*
-     - Always you can change the owner name id and other settings when publishing..
-     - The bots owner infomations present at Emilia/Modules/Lang/id.py and en.py.
-     - Paste your coffeehouse api to activate your own chatbot.
-     - You can remove entry Daisy logo in Main.py.
-     - Link your Credit card to Heroku for get extra amount of dynos.
-     
-*I am just a learner and this is the code I used as MissDaisyRobot
 ```
 <details>
 <summary>-THE HARD WAY of deploying -</summary>
